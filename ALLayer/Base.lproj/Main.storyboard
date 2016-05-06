@@ -5,10 +5,10 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
     </dependencies>
     <scenes>
-        <!--Basic Animation View Controller-->
+        <!--Text Layer View Controller-->
         <scene sceneID="tne-QT-ifu">
             <objects>
-                <viewController storyboardIdentifier="CABasicAnimationViewController" id="BYZ-38-t0r" customClass="CABasicAnimationViewController" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="CATextLayerViewController" id="BYZ-38-t0r" customClass="CATextLayerViewController" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
                         <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>

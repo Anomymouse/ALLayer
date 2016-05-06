@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C033DFE11CDB019F00C91D20 /* CATextLayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C033DFE01CDB019F00C91D20 /* CATextLayerViewController.m */; };
 		C06C77A01CD8909D0019FE37 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = C06C779F1CD8909D0019FE37 /* main.m */; };
 		C06C77A31CD8909D0019FE37 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = C06C77A21CD8909D0019FE37 /* AppDelegate.m */; };
 		C06C77A61CD8909D0019FE37 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C06C77A51CD8909D0019FE37 /* ViewController.m */; };
@@ -37,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C033DFDF1CDB019F00C91D20 /* CATextLayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CATextLayerViewController.h; sourceTree = "<group>"; };
+		C033DFE01CDB019F00C91D20 /* CATextLayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CATextLayerViewController.m; sourceTree = "<group>"; };
 		C06C779B1CD8909D0019FE37 /* ALLayer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ALLayer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C06C779F1CD8909D0019FE37 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		C06C77A11CD8909D0019FE37 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -112,6 +115,8 @@
 				C06C77A51CD8909D0019FE37 /* ViewController.m */,
 				C0FE83991CD9D5E8005FBF0F /* CABasicAnimationViewController.h */,
 				C0FE839A1CD9D5E8005FBF0F /* CABasicAnimationViewController.m */,
+				C033DFDF1CDB019F00C91D20 /* CATextLayerViewController.h */,
+				C033DFE01CDB019F00C91D20 /* CATextLayerViewController.m */,
 				C06C77D11CD8997E0019FE37 /* photo.jpg */,
 				C06C77A71CD8909D0019FE37 /* Main.storyboard */,
 				C06C77AA1CD8909D0019FE37 /* Assets.xcassets */,
@@ -284,6 +289,7 @@
 				C06C77A61CD8909D0019FE37 /* ViewController.m in Sources */,
 				C06C77A31CD8909D0019FE37 /* AppDelegate.m in Sources */,
 				C06C77A01CD8909D0019FE37 /* main.m in Sources */,
+				C033DFE11CDB019F00C91D20 /* CATextLayerViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
