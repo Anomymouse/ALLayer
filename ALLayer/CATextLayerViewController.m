@@ -58,11 +58,6 @@
     CFRelease(fontRef);
     
     textLayer.string = string;
-//    http://www.jianshu.com/p/e69f0dd83203
-//    http://www.jianshu.com/p/f4a817f25815
-//    http://www.jianshu.com/p/a35ea72843f0
-//    http://www.jianshu.com/p/ba154cb22ea3
-//    https://zsisme.gitbooks.io/ios-/content/chapter6/CATextLayer.html
 }
 
 @end
